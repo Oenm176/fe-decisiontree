@@ -1,4 +1,4 @@
-# Proyek Mata Kuliah: FE-DecisionTree
+# Proyek Feature Enggineering Decision Tree
 
 Repositori ini berisi kode dan analisis untuk Tugas Kelompok UAS mata kuliah Feature Enggineering. Proyek ini berfokus pada pemrosesan data, normalisasi fitur, dan klasifikasi menggunakan algoritma Decision Tree.
 
