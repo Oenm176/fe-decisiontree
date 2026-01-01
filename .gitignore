@@ -1,0 +1,32 @@
+# --- Python & Bytecode ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environment (PENTING) ---
+# Mengabaikan folder environment agar tidak berat saat upload
+venv/
+env/
+.env
+
+# --- Jupyter Notebooks ---
+# Mengabaikan folder checkpoint otomatis (bikin kotor repo)
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Editor & OS Settings ---
+# Mengabaikan settingan VS Code lokal
+.vscode/
+.idea/
+
+# Mengabaikan file sistem (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# --- Optional: Dataset Besar ---
+# Jika datasetmu sangat besar (>100MB), hapus tanda pagar di bawah ini
+# data/
+
+# --- Ignore Temporary Files ---
+*.log
