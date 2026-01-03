@@ -33,6 +33,10 @@ Struktur direktori disusun untuk memudahkan alur kerja (pipeline) data science:
 │   ├── 2.data_normalization.ipynb # Skala fitur (Scaling/Normalization)
 │   └── 3.decision_tree.ipynb      # Pemodelan dan evaluasi Decision Tree
 │
+├── output/                     # Hasil Visualisasi Otomatis
+│   └── figures/
+│       ├── cleveland/          # Grafik Outlier, Heatmap, dll (Jantung)
+│       └── glass/              # Grafik Outlier, Heatmap, dll (Kaca)
 ├── venv/                  # Virtual Environment (di-ignore oleh git)
 ├── requirements.txt       # Daftar library python yang dibutuhkan
 └── README.md              # Dokumentasi proyek
