@@ -1,4 +1,4 @@
-Umur,Jenis_Kelamin,Tipe_Nyeri_Dada,Tekanan_Darah,Kolesterol,EKG_Istirahat,Detak_Jantung_Max,Angina_Olahraga,Depresi_ST,Kemiringan_ST,Jumlah_Pembuluh_Utama,Thalassemia,Target_Encoded
+Age,Sex,Chest_Pain_Type,Resting_Blood_Pressure,Serum_Cholesterol,Resting_ECG,Max_Heart_Rate_Achieved,Exercise_Induced_Angina,ST_Depression,ST_Slope,Number_of_Major_Vessels,Thalassemia,Target_Encoded
 0.7083333333333334,1.0,0.0,0.48113207547169823,0.24429223744292233,1.0,0.6030534351145037,0.0,0.3709677419354838,1.0,0.0,0.75,0
 0.16666666666666663,1.0,0.6666666666666667,0.339622641509434,0.28310502283105016,0.0,0.8854961832061069,0.0,0.564516129032258,1.0,0.0,0.0,0
 0.25,0.0,0.3333333333333333,0.339622641509434,0.1780821917808219,1.0,0.7709923664122137,0.0,0.2258064516129032,0.0,0.0,0.0,0
